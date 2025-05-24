@@ -24,3 +24,4 @@ Upon opening the app, you will see a search bar into which you can type the name
 - Humidity (%)
 - Wind Speed (m/s)
 - Atmospheric Pressure (hPa)
+- Predicted weather conditions and temperatures in 3 hour increments over the upcoming week
